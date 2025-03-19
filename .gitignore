@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+*.pdf
+*.md
+env/
+.env
