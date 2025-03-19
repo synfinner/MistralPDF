@@ -1,6 +1,6 @@
 # MistralPDF
 
-MistralPDF is a Python script for interacting with the [Mistral OCR API](https://mistral.ai/) to process your PDF files and generate Markdown output.
+MistralPDF is a Python script for interacting with the [Mistral OCR API](https://docs.mistral.ai/capabilities/document/) to process your PDF files and generate Markdown output.
 
 ## Features
 
